@@ -1,5 +1,5 @@
 # dcdivx
-A FREE Open Source Multimedia Player Designed for the Sega Dreamcast
+This is art of FREE Open Source Multimedia Player Designed for the Sega Dreamcast
 http://www.moosegate.com/betaboy/dcdivx/
 
 or
